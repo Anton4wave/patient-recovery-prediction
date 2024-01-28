@@ -1,1 +1,1 @@
-# Hackathon of the Graduate School of Business and VK
+#Hackathon of the Graduate School of Business and VK
