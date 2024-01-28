@@ -12,7 +12,14 @@ The task for VK Predict, a business unit of the company VK, involves developing 
 - CatBoost as a baseline approach
 - Tenserflow Sequential for final model
 
-## Разработка
+## Usage
+
+AI in developing medications:
+
+- Analysis and processing large amounts of data speeds up and simplifies production process
+- Objectivity of the received results allows you to avoid subjective judgments and choose the most optimal approach
+- Process optimization clinical trials reduces time and costs for drug research and testing
+- Finding Hidden Relationships in patient characteristics makes development possible personalized treatment plan
 
 
 
