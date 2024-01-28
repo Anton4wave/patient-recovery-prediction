@@ -3,7 +3,7 @@
 The task for VK Predict, a business unit of the company VK, involves developing a predictive model for a pharmaceutical company. This model should predict patient recovery based on test results, specifically for those treated with a new, expensive medication designed to replace a less effective, cheaper one.
 
 ## Содержание
-- [Технологии](#технологии)
+- [Tech stack](#Tech stack)
 - [Начало работы](#начало-работы)
 - [Тестирование](#тестирование)
 - [Deploy и CI/CD](#deploy-и-ci/cd)
@@ -11,7 +11,7 @@ The task for VK Predict, a business unit of the company VK, involves developing 
 - [To do](#to-do)
 - [Команда проекта](#команда-проекта)
 
-## Технологии
+## Tech stack
 - [GatsbyJS](https://www.gatsbyjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - ...
