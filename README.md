@@ -4,8 +4,13 @@ The task for VK Predict, a business unit of the company VK, involves developing 
 
 ## Tech stack
 - Scikit-learn
+- Matplotlib, Seaborn for EDA
 - SMOTE for Oversampling
-- ...
+- Polynomial features
+- Feauture selection
+- Optuna, GridSearchCV for hyperparameter tuning
+- CatBoost as a baseline approach
+- Tenserflow Sequential for final model
 
 ## Разработка
 
